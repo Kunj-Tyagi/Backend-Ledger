@@ -154,7 +154,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📞 Support
 
-For support, email the repository owner or open an issue on GitHub.
+kunjtyagi24@gmail.com
 
 ---
 
